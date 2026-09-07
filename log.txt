@@ -1,0 +1,20 @@
+
+Failed to locate resource named "default.csv"
+Connection error: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.PerfPowerTelemetryClientRegistrationService was invalidated: Connection init failed at lookup with error 159 - Sandbox restriction." UserInfo={NSDebugDescription=The connection to service named com.apple.PerfPowerTelemetryClientRegistrationService was invalidated: Connection init failed at lookup with error 159 - Sandbox restriction.}
+CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+(+[PPSClientDonation isRegisteredSubsystem:category:]) Permission denied: Maps / SpringfieldUsage
+(+[PPSClientDonation sendEventWithIdentifier:payload:]) Invalid inputs: payload={
+    isSPR = 0;
+}
+Connection error: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.PerfPowerTelemetryClientRegistrationService was invalidated: Connection init failed at lookup with error 159 - Sandbox restriction." UserInfo={NSDebugDescription=The connection to service named com.apple.PerfPowerTelemetryClientRegistrationService was invalidated: Connection init failed at lookup with error 159 - Sandbox restriction.}
+(+[PPSClientDonation isRegisteredSubsystem:category:]) Permission denied: Maps / SpringfieldUsage
+(+[PPSClientDonation sendEventWithIdentifier:payload:]) Invalid inputs: payload={
+    isSPR = 1;
+}
+Bound preference MapScopeRegistryKey tried to update multiple times per frame.
+Called -[UIContextMenuInteraction updateVisibleMenuWithBlock:] while no context menu is visible. This won't do anything.
+<0x1089b9a40> Gesture: System gesture gate timed out.
+<0x1089b9a40> Gesture: System gesture gate timed out.
+<0x1089b9a40> Gesture: System gesture gate timed out.
+<0x1089b9a40> Gesture: System gesture gate timed out.
+<0x1089b9a40> Gesture: System gesture gate timed out.
